@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+Name: Meagan Boucher
+Student #: 4405479
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
